@@ -1,5 +1,4 @@
 # Python_Basics
-Python Basics
 This repository contains fundamental concepts of Python programming, including essential data structures and operations. It serves as an introductory guide to help beginners understand and get comfortable with Python.
 
 Contents:
